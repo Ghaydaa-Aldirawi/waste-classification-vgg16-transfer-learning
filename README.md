@@ -59,11 +59,9 @@ Python · TensorFlow 2.17 / Keras · NumPy · Matplotlib · scikit-learn · tqdm
 
 🚀 How to Run
 
-The notebook downloads the dataset automatically from the course-hosted link, so no manual data setup is needed.
+The notebook downloads the dataset automatically from the course-hosted link, so no manual data setup is needed. After downloading or cloning this repository, open a terminal in its folder and run:
 
 bash
-git clone https://github.com/GhydaaAldirawy/waste-classification-vgg16-transfer-learning.git
-cd waste-classification-vgg16-transfer-learning
 pip install tensorflow==2.17.0 numpy==1.26.0 scikit-learn==1.5.1 matplotlib==3.9.2 requests tqdm
 jupyter notebook Final_Proj_Classify_Waste_Products_Using_TL_FT.ipynb
 
@@ -86,4 +84,4 @@ Project structure, scenario, and dataset provided by the Deep Learning with Kera
 
 👩‍💻 Author
 
-Ghydaa Ikrami — @GhydaaAldirawy
+Ghaydaa-Aldirawi
